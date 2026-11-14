@@ -1,0 +1,312 @@
+[
+  {
+    "download_size": 7549632,
+    "teaser": "If you\u2019ve been looking to use Live with technologies like Arduino, LEGO\u00ae MINDSTORMS\u00ae EV3 and OSC, this free set of Max for Live devices provides exactly what you need. Now it\u2019s simpler than ever to set up new and experimental ways to interact with and extend Live.",
+    "installation_size": 7575552,
+    "title": "Connection Kit",
+    "url": "/en/packs/connection-kit/",
+    "revision": 40904,
+    "requires_mfl": true,
+    "pack_unique_id": "www.ableton.com/227"
+  },
+  {
+    "download_size": 371191137,
+    "teaser": "Max for Live Essentials is a collection of audio and MIDI effects, synthesizers and control devices made with Max for Live \u2013 for use with Live 9.",
+    "installation_size": 666244218,
+    "title": "Max for Live Essentials",
+    "url": "/en/packs/max-live-essentials/",
+    "revision": 40143,
+    "requires_mfl": true,
+    "pack_unique_id": "www.ableton.com/90"
+  },
+  {
+    "download_size": 4683653,
+    "teaser": "One of the most popular Max for Live devices, Robert Henke\u2019s impressive Monolake Granulator has been updated for Live 9. Transform any sound with this versatile instrument.",
+    "installation_size": 6453248,
+    "title": "Granulator II",
+    "url": "/en/packs/granulator-ii/",
+    "revision": 37909,
+    "requires_mfl": true,
+    "pack_unique_id": "www.ableton.com/120"
+  },
+  {
+    "download_size": 4005493,
+    "teaser": "A legacy Pack featuring Loop Shifter, Buffer Shuffler 1.0 and Step Sequencer. Get surprising, inspiring, and tweaked-out results with these three devices.",
+    "installation_size": 5233664,
+    "title": "Max for Live Big Three",
+    "url": "/en/packs/big-three/",
+    "revision": 32873,
+    "requires_mfl": true,
+    "pack_unique_id": "www.ableton.com/M4L Big Three"
+  },
+  {
+    "download_size": 69475962,
+    "teaser": "Max for Live Building Tools is a set of essential devices that open up the modular potential of Live. Effect, control, and radically reinvent your sounds and workflow.",
+    "installation_size": 105056829,
+    "title": "Max for Live Building Tools",
+    "url": "/en/packs/max-live-building-tools/",
+    "revision": 32902,
+    "requires_mfl": true,
+    "pack_unique_id": "www.ableton.com/104"
+  },
+  {
+    "download_size": 8008711,
+    "teaser": "Pluggo for Live is a free collection of audio devices and instruments derived from Cycling '74's Pluggo plug-in collection. This array of full-fledged Max for Live devices provides hours of signal-mangling fun as well as interesting examples of various approaches to plug-in design. ",
+    "installation_size": 8294400,
+    "title": "Max for Live Pluggo for Live",
+    "url": "/en/packs/max-live-pluggo-live/",
+    "revision": 32873,
+    "requires_mfl": true,
+    "pack_unique_id": "www.ableton.com/109"
+  },
+  {
+    "download_size": 2392331821,
+    "teaser": "Retro Synths contains more than 4,000 samples from the greatest classic synths of the past three decades, including rich bass from the Minimoog, acid squelch from the Roland TB-303, and the classic digital \"phase distortion\" synthesis from the Casio CZ-series. ",
+    "installation_size": 3607772528,
+    "title": "Retro Synths",
+    "url": "/en/packs/retro-synths/",
+    "revision": 32873,
+    "requires_mfl": false,
+    "pack_unique_id": "www.ableton.com/60"
+  },
+  {
+    "download_size": 483466564,
+    "teaser": "Vinyl Classics is a collection of Clips, Loops and Construction Kits inspired by and reminiscent of classic dance music of the 70s, 80s and 90s.",
+    "installation_size": 911579545,
+    "title": "Vinyl Classics",
+    "url": "/en/packs/vinyl-classics/",
+    "revision": 32873,
+    "requires_mfl": false,
+    "pack_unique_id": "www.ableton.com/33"
+  },
+  {
+    "download_size": 57197976,
+    "teaser": "Breakbeats by KutMasta Kurt is a set of Hip Hop breaks with a vintage sound from producer KutMasta Kurt, who has worked with artists including Beastie Boys, DJ Qbert, Kool Keith, The Pharcyde, Linkin Park and more.",
+    "installation_size": 100086579,
+    "title": "Breakbeats by Kutmasta Kurt",
+    "url": "/en/packs/breakbeats/",
+    "revision": 32873,
+    "requires_mfl": false,
+    "pack_unique_id": "www.ableton.com/112"
+  },
+  {
+    "download_size": 129882117,
+    "teaser": "Konkrete Breaks is a collection of complex and exciting MIDI drum loops paired with a selection of sounds from Soniccouture\u2019s acclaimed Konkrete Drums series.",
+    "installation_size": 183259627,
+    "title": "Konkrete Breaks",
+    "url": "/en/packs/konkrete-breaks/",
+    "revision": 32873,
+    "requires_mfl": false,
+    "pack_unique_id": "www.ableton.com/102"
+  },
+  {
+    "download_size": 484335141,
+    "teaser": "We're giving away a free audio package with new sounds, presets, Instrument Racks and Construction Kits. This is more than just a few audio files. Samplification will kick-start your sampling skills and demonstrate what Sampler is really capable of.",
+    "installation_size": 973036584,
+    "title": "Samplification",
+    "url": "/en/packs/samplification/",
+    "revision": 32873,
+    "requires_mfl": false,
+    "pack_unique_id": "www.ableton.com/7"
+  },
+  {
+    "download_size": 256904357,
+    "teaser": "Cyclic Waves is a premium selection of audio loops taken from the Cycling '74 'Cycles' libraries, produced and curated by Sound Library pioneer Ron MacLeod using innovative processing tools from Cycling '74, the makers of Max.",
+    "installation_size": 465620172,
+    "title": "Cyclic Waves",
+    "url": "/en/packs/cyclic-waves/",
+    "revision": 32903,
+    "requires_mfl": false,
+    "pack_unique_id": "www.ableton.com/31"
+  },
+  {
+    "download_size": 1981452851,
+    "teaser": "A set of samples and loops from Loopmasters, from synthesized sound design to acoustic drums and found sounds. Features content from Partners such as Puremagnetik and Soniccouture, and Loopmasters' artist Pack sounds from artists such as Digable Planets, Coldcut, Todd Terry, and more.",
+    "installation_size": 3575560273,
+    "title": "Loopmasters Mixtape",
+    "url": "/en/packs/loopmasters-mixtape/",
+    "revision": 32903,
+    "requires_mfl": false,
+    "pack_unique_id": "www.ableton.com/36"
+  },
+  {
+    "download_size": 4662564346,
+    "teaser": "Session Drums Multimic is a meticulously recorded library of acoustic drums that reproduces the nuances of a recording session and puts you in the engineer's seat. Session Drums gives you full control of the close mics for each drum as well as the overheads and room mics, so you can craft the perfect drum mix.",
+    "installation_size": 13185549598,
+    "title": "Session Drums Multimic",
+    "url": "/en/packs/session-drums-multimic/",
+    "revision": 32873,
+    "requires_mfl": false,
+    "pack_unique_id": "www.ableton.com/22"
+  },
+  {
+    "download_size": 3161256321,
+    "teaser": "Session Drums Studio features clear and vivid studio recordings of world-class acoustic drums, properly mic\u2019ed and ready to play. The included kits cover a wide range of styles and offer deep customization capabilities. ",
+    "installation_size": 6378026434,
+    "title": "Session Drums Studio",
+    "url": "/en/packs/session-drums-studio/",
+    "revision": 32873,
+    "requires_mfl": false,
+    "pack_unique_id": "www.ableton.com/94"
+  },
+  {
+    "download_size": 118985575,
+    "teaser": "Unnatural Selection is a collection of Audio Clips and Construction Kits for a diverse number of genres, and includes both beats and melodic components.",
+    "installation_size": 217317376,
+    "title": "Unnatural Selection",
+    "url": "/en/packs/unnatural-selection/",
+    "revision": 32873,
+    "requires_mfl": false,
+    "pack_unique_id": "www.ableton.com/37"
+  },
+  {
+    "download_size": 2319513865,
+    "teaser": "Session Drums Club is a multisampled library of world-class acoustic drums recorded with plenty of natural room ambience to impart realistic depth and an organic vibe in the rhythm department. ",
+    "installation_size": 4767413698,
+    "title": "Session Drums Club",
+    "url": "/en/packs/session-drums-club/",
+    "revision": 32873,
+    "requires_mfl": false,
+    "pack_unique_id": "www.ableton.com/95"
+  },
+  {
+    "download_size": 102029979,
+    "teaser": "Digicussion 1 is a versatile library of synthetic drums - great for pouring electronic production, experimental sound design, and all kinds of rhythmic music.",
+    "installation_size": 164720803,
+    "title": "Digicussion 1",
+    "url": "/en/packs/digicussion-1/",
+    "revision": 32873,
+    "requires_mfl": false,
+    "pack_unique_id": "www.ableton.com/99"
+  },
+  {
+    "download_size": 31849601,
+    "teaser": "Designer Drums is a set of synthesized drums that demonstrate the versatility of Ableton Live 9's instruments and effects.",
+    "installation_size": 32306626,
+    "title": "Designer Drums",
+    "url": "/en/packs/designer-drums/",
+    "revision": 32877,
+    "requires_mfl": false,
+    "pack_unique_id": "www.ableton.com/32"
+  },
+  {
+    "download_size": 213948774,
+    "teaser": "Sound Objects Lite is a collection of sampled percussive and bowed objects chosen for their complex and unusual harmonics.",
+    "installation_size": 642221342,
+    "title": "Sound Objects Lite",
+    "url": "/en/packs/sound-objects-lite/",
+    "revision": 32873,
+    "requires_mfl": false,
+    "pack_unique_id": "www.ableton.com/30"
+  },
+  {
+    "download_size": 495848629,
+    "teaser": "Guitars & Bass brings the sounds of classic electric guitars and basses to Live 9, with multisampled Instruments that capture all the nuances and feel of each instrument. ",
+    "installation_size": 1138166333,
+    "title": "Guitars and Bass",
+    "url": "/en/packs/guitars-and-bass/",
+    "revision": 32903,
+    "requires_mfl": false,
+    "pack_unique_id": "www.ableton.com/101"
+  },
+  {
+    "download_size": 669919499,
+    "teaser": "Grand Piano provides the expression and power of a world-renowned concert grand recorded in a classical orchestra hall. ",
+    "installation_size": 1513975971,
+    "title": "Grand Piano",
+    "url": "/en/packs/grand-piano/",
+    "revision": 32903,
+    "requires_mfl": false,
+    "pack_unique_id": "www.ableton.com/91"
+  },
+  {
+    "download_size": 103866970,
+    "teaser": "Digicussion 2 is a booster shot of synthetic drums for your electronic productions - designed to provide fresh inspiration for your rhythm tracks.",
+    "installation_size": 149432565,
+    "title": "Digicussion 2",
+    "url": "/en/packs/digicussion-2/",
+    "revision": 32873,
+    "requires_mfl": false,
+    "pack_unique_id": "www.ableton.com/100"
+  },
+  {
+    "download_size": 90165175,
+    "teaser": "Bomblastic is a Hip Hop drum kit library featuring punchy kicks, cracking snares, crisp claps, powerful percussion, biting shakers, hi-hats, cymbals, toms, and more.",
+    "installation_size": 143728312,
+    "title": "Bomblastic",
+    "url": "/en/packs/bomblastic/",
+    "revision": 32873,
+    "requires_mfl": false,
+    "pack_unique_id": "www.ableton.com/98"
+  },
+  {
+    "download_size": 912987275,
+    "teaser": "Made in the spirit of experimentation, The Forge by Hecq is a thoroughly modern update on classic IDM and glitch, infused with a healthy dose of cinematic sound-design.",
+    "installation_size": 1159641169,
+    "title": "The Forge",
+    "url": "/en/packs/forge/",
+    "revision": 32903,
+    "requires_mfl": true,
+    "pack_unique_id": "www.ableton.com/97"
+  },
+  {
+    "download_size": 1318124494,
+    "teaser": "Captures the true essence of symphonic percussion instruments in pristine quality. Features vibraphone, marimba, xylophone, crotales, glockenspiel, tubular bells, cymbals and timpani with a variety of articulations.",
+    "installation_size": 2877628088,
+    "title": "Orchestral Mallets",
+    "url": "/en/packs/orchestral-percussion/",
+    "revision": 32873,
+    "requires_mfl": false,
+    "pack_unique_id": "www.ableton.com/4"
+  },
+  {
+    "download_size": 2893133045,
+    "teaser": "A comprehensive selection of naturally rich and dynamic stringed instruments. Features solo and ensemble violin, viola, cello and double bass, all recorded in their natural positions within the orchestra, complete with a number of articulations.",
+    "installation_size": 4316442132,
+    "title": "Orchestral Strings",
+    "url": "/en/packs/orchestral-strings/",
+    "revision": 38128,
+    "requires_mfl": false,
+    "pack_unique_id": "www.ableton.com/5"
+  },
+  {
+    "download_size": 4824310709,
+    "teaser": "Delivers a variety of clear and vibrant wind instruments. Features solo and ensemble flute, clarinet, bassoon, oboe and English horn with a broad selection of articulations.",
+    "installation_size": 7537667604,
+    "title": "Orchestral Woodwinds",
+    "url": "/en/packs/orchestral-woodwinds/",
+    "revision": 32903,
+    "requires_mfl": false,
+    "pack_unique_id": "www.ableton.com/6"
+  },
+  {
+    "download_size": 1533070515,
+    "teaser": "A thorough set of vivid and colorful brass instruments. Features solo and ensemble French horn, trombone, trumpet and tuba, with a unique set of articulations in multiple section sizes.",
+    "installation_size": 3060164198,
+    "title": "Orchestral Brass",
+    "url": "/en/packs/orchestral-brass/",
+    "revision": 32873,
+    "requires_mfl": false,
+    "pack_unique_id": "www.ableton.com/3"
+  },
+  {
+    "download_size": 554639865,
+    "teaser": "Latin Percussion is a collection of acoustic percussion instruments such as congas, bongos, timbales, claves, shakers, tambourines and bells from the worlds of Brazilian, Afro-Cuban and African music.",
+    "installation_size": 1025863843,
+    "title": "Latin Percussion",
+    "url": "/en/packs/latin-percussion/",
+    "revision": 32873,
+    "requires_mfl": false,
+    "pack_unique_id": "www.ableton.com/35"
+  },
+  {
+    "download_size": 261931815,
+    "teaser": "Drum Machines offers a choice selection of classic drum machines, meticulously sampled to faithfully reproduce the original sounds.",
+    "installation_size": 441135923,
+    "title": "Drum Machines",
+    "url": "/en/packs/drum-machines/",
+    "revision": 32873,
+    "requires_mfl": false,
+    "pack_unique_id": "www.ableton.com/1"
+  }
+]
